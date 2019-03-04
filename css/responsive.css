@@ -240,6 +240,11 @@
 	}
 	.home_banner_area .banner_inner .banner_content {
 		margin-top: 0px;
+		padding: 0!important;
+		width: 100%;
+	}
+	.home_banner_area .banner_inner .banner_content .media .media-body {
+		padding-right: 0;
 	}
 	/* Blog Page Area css
 	============================================================================================ */
